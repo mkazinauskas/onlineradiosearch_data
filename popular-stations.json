@@ -1,22 +1,22 @@
 [
    {
       "id":1,
-      "name":"Trance Clubber",
+      "title":"Trance Clubber",
       "url":"http://212.129.48.95:8600"
    },
    {
       "id":2,
-      "name":"Radioparty.pl - KANAL TRANCE",
+      "title":"Radioparty.pl - KANAL TRANCE",
       "url":"http://176.31.240.87:8015"
    },
    {
       "id":3,
-      "name":"Planeta Trance",
+      "title":"Planeta Trance",
       "url":"http://94.23.200.43:8026"
    },
    {
       "id":4,
-      "name":"Magik Trance",
+      "title":"Magik Trance",
       "url":"http://87.98.216.129:11176"
    }
 ]
