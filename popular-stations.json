@@ -1,22 +1,22 @@
 [
    {
       "id":1,
-      "title":"Trance Clubber",
-      "url":"http://212.129.48.95:8600"
+      "title":"All 80s All The Time presents: 80s Planet, 80splanet",
+      "url":"http://46.105.55.153:50385"
    },
    {
       "id":2,
-      "title":"Radioparty.pl - KANAL TRANCE",
-      "url":"http://176.31.240.87:8015"
+      "title":"Dance Wave!",
+      "url":"http://78.31.65.20:8080/dance.mp3"
    },
    {
       "id":3,
-      "title":"Planeta Trance",
-      "url":"http://94.23.200.43:8026"
+      "title":"1.FM - Amsterdam Trance (www.1.fm)",
+      "url":"http://185.33.21.112:80/atr_128"
    },
    {
       "id":4,
-      "title":"Magik Trance",
-      "url":"http://87.98.216.129:11176"
+      "title":"PulsRadio DANCE",
+      "url":"http://87.98.153.24:80/pulsAAC64.mp3"
    }
 ]
