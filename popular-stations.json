@@ -1,5 +1,40 @@
 [
   {
+    "id": 22146,
+    "title": "Venice Classic Radio Italia",
+    "url": "http://144.217.49.251:80/stream1?icy=http"
+  },      
+  {
+    "id": 1654136,
+    "title": "APAITtest",
+    "url": "http://185.85.28.142:8000/;?icy=http"
+  },    
+  {
+    "id": 1271585,
+    "title": "Radio 2.0 - Valli di Bergamo HD",
+    "url": "http://46.252.154.133:8000/stream.ogg?icy=http"
+  },  
+  {
+    "id": 1750548,
+    "title": "Dance Wave Retro!",
+    "url": "http://78.31.65.20:8080/retrodance.mp3?icy=http"
+  },  
+  {
+    "id": 1735956,
+    "title": "COOLfahrenheit 93 - (7)",
+    "url": "http://111.223.51.8:8000/;?icy=http"
+  },
+  {
+    "id": 1735956,
+    "title": "COOLfahrenheit 93 - (7)",
+    "url": "http://111.223.51.8:8000/;?icy=http"
+  },
+  {
+    "id": 1826116,
+    "title": "Hitradio OE3",
+    "url": "http://185.85.29.140:80/;?icy=http"
+  },
+  {
     "id": 900000,
     "title": "Radiocentras",
     "url": "http://84.46.205.13/rc128.mp3"
